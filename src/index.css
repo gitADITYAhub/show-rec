@@ -1,0 +1,8 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+.px-4 {
+    padding-left: 10rem;
+    padding-right: 10rem;
+}
